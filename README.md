@@ -1,5 +1,6 @@
-# TechCrunch-Exact-layout-Project
+# TechCrunch-layout-Project
 TechCrunch-Project
+
 Hello!
 
 This is a project that was assigned for me to do, in order to engage practically the knowledge that i got from the markup languages (HTML and CSS).
