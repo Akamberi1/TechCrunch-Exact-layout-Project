@@ -1,0 +1,261 @@
+@font-face {
+    src: url(fonts/AktivGrotesk-Hairline.ttf);
+    font-family: 'aktiv-grotesk';
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 2vw;
+    width: 20vw;
+    position: fixed;
+    
+}
+
+
+.tc-logo {
+    width: 60px;
+}
+
+.search-logo {
+    width: 35px;
+    height: 20px;
+}
+
+.flex-container-1 {
+    width: 15vw;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    list-style: none;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.flex-item-1 {
+    color: gray;
+    font-weight: 900;
+    text-decoration: none;
+    font-family: 'aktiv-grotesk', sans-serif;
+
+}
+
+.flex-container-2 {
+    margin-top: 15%;
+    width: 15vw;
+    height: 4vh;
+    display: flex;
+    box-sizing: border-box;
+    padding: 0;
+    align-items: center;
+    flex-direction: row;
+}
+
+.flex-item-2 {
+
+    text-decoration: none;
+    color: gray;
+    font-family: 'aktiv-grotesk', sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.flex-container-3 {
+    margin-top: 0;
+    width: 17vw;
+    height: 58vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    list-style: none;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.flex-item-3 {
+
+    text-decoration: none;
+    color: gray;
+    font-family: 'aktiv-grotesk', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.extra-crunch {
+    color: rgb(220, 169, 70);
+    font-style: bold;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+hr {
+    width: 2vw;
+    background-color: gray;
+    margin: 0;
+}
+
+.hr-1 {
+    width: 100%;
+    color: gray;
+}
+
+main {
+    width: 45vw;
+    height: 60vh;
+    position: absolute;
+    top: 2vh;
+    left: 20vw;
+}
+
+.computer-girl {
+    width: 100%;
+    height: 100%;
+}
+
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+    font-family: sans-serif;
+    font-size: 30px;
+    line-height: 0;
+
+}
+
+.paragraph {
+    color: gray;
+    font-family: 'aktiv-grotesk';
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.headings {
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 1;
+}
+
+.paragraphs {
+    font-family: 'aktiv-grotesk', sans-serif;
+    font-weight: 900;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    width: 27vw;
+    height: 80vh;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin-right: 5vw;
+
+}
+
+.sections {
+    border-bottom: 1px solid gray;
+}
+
+.article-2 {
+    top: 115vh;
+    width: 50vw;
+    height: 25vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: absolute;
+    right: 4vw;
+}
+
+.sections-1 {
+    width: 300px;
+    height: 175px;
+}
+
+.wonder-woman {
+    width: 100%;
+    height: 98%;
+}
+
+.article-1 {
+    width: 20vw;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: absolute;
+    left: 20vw;
+    top: 110vh;
+
+
+
+}
+
+.sections-2 {
+    line-height: 1.3;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.last-hr {
+    color: white;
+    width: 74vw;
+}
+
+.the-latest {
+    font-weight: 700;
+    font-family: sans-serif;
+
+}
+
+.special {
+    color: gray;
+    font-family: 'aktiv-grotesk';
+    font-weight: 900;
+   
+    
+}
+
+.last-heading {
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    margin-top: 7%;
+}
+.hr-3{
+    position: absolute;
+    top: 144vh;
+    width: 37vw;
+    left: 6vh;
+    color: black;
+    border: 1px solid black;
+
+}
+.linqet{
+    text-decoration: none;
+    color: black;
+}
+.extra-crunch-1 {
+    color: rgb(220, 169, 70);
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 0;
+    text-decoration: none;
+}
+.another-one{
+    color: gray;
+}
+.special-heading{
+    font-weight: 900;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.Anthony-Ha{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
